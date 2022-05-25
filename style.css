@@ -157,6 +157,7 @@ button {
 }
 
 /* edit task */
+
 .task-list__item .task-input {
   display: none;
 }
